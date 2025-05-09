@@ -34,6 +34,9 @@ model = ModernTransformerLM(
     layer_drop=0.0
 )
 ```
+This is just an example. Adjust hyperparameters as needed for your training setup.
+
+---
 
 ## License
 
